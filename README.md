@@ -4,3 +4,5 @@ An application of the Computer vision toolbox on MATLAB to capture, segment, loc
 
 
 ![Video Demo](Demo.gif)
+
+![Image Analysis Demo](ImageAnalysis.gif)
